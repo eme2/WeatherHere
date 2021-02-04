@@ -14,7 +14,7 @@ const apiKey = process.env.API_KEY;
 // const URLweather = "api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=${apiKey}&units=metric&lang=fr"
 
 // api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}&units=metric&lang=fr
-// apiKey : 36e306cb2eda31ad3dec79db153557c2
+// apiKey : 
 // 48.6333756, 7.7427876
 
 // api.openweathermap.org/data/2.5/weather?lat=48.6333756&lon=7.7427876&appid=36e306cb2eda31ad3dec79db153557c2
